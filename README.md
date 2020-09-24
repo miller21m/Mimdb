@@ -18,6 +18,18 @@
 </div>
 
 
+# Home page:</br>
+![Imgur](https://i.imgur.com/A9bus8F.jpg)
+
+# Explore page:</br>
+![Imgur](https://i.imgur.com/gV0bBXr.jpg)
+
+# Result:</br>
+![Imgur](https://i.imgur.com/azVhFrR.jpg)
+
+ The movie/tv show plot will be displayed by hovering the movie/tv show item.</br>
+![Imgur](https://i.imgur.com/Esp7T4y.jpg) 
+
 
 # imdbclone
 
