@@ -2,7 +2,7 @@
 
 <br>
 <p>This web app is a clone of imdb based on "omdb API".<br>
-   The user can search for any movie/tw show that he would like to get info about.<br>
+   The user can search for any movie/tv show that he would like to get info about.<br>
    This web app was created as part of my self-study of Vue.js and to practice on my frontend skills. 
 </p>
 <br>
