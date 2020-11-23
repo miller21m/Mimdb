@@ -19,16 +19,16 @@
 
 
 # Home page:</br>
-![Imgur](https://i.imgur.com/A9bus8F.jpg)
+![Imgur](https://i.imgur.com/wBdfHLd.jpg)
 
 # Explore page:</br>
-![Imgur](https://i.imgur.com/gV0bBXr.jpg)
+![Imgur](https://i.imgur.com/Fl63xMX.jpg)
 
 # Result:</br>
-![Imgur](https://i.imgur.com/azVhFrR.jpg)
+![Imgur](https://i.imgur.com/nFYH0kf.jpg)
 
  The movie/tv show plot will be displayed by hovering the movie/tv show item.</br>
-![Imgur](https://i.imgur.com/Esp7T4y.jpg) 
+![Imgur](https://i.imgur.com/2I6GskB.jpg)
 
 
 # imdbclone
